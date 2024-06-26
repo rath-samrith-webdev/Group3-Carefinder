@@ -23,7 +23,7 @@ bun install
 ### Compile and Hot-Reload for Development
 
 ```sh
-bun dev
+bun run dev
 ```
 
 ### Type-Check, Compile and Minify for Production

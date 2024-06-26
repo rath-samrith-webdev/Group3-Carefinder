@@ -25,8 +25,6 @@
       </div>
     </div>
   </WebLayout>
-  <!-- {{ store.posts }} -->
-  {{ posts }}
 </template>
 
 <script>
