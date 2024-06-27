@@ -7,8 +7,8 @@
         <div
           v-for="(item, index) in menu"
           :key="index"
-          v-permission="item.meta.permission"
           class="p-3 rounded hover:text-blue cursor-pointer"
+          v-permission="item.meta.permission"
         >
           {{ item.title }}
         </div>
